@@ -86,32 +86,16 @@ A clean and intuitive mobile app UI was designed to:
 
 ## 📸 Screenshots
 
+### 🏠 Welcome Screen
+![Welcome](Welcome.jpg)
+
+
 ### 🔐 Login Screen
 ![Login](Login.jpg)
 
-### 🏠 Welcome Screen
-![Welcome](Welcome Screen.jpg)
 
 ### 💇‍♀️ Services Screen
-![Haircut](Haircut Service.jpg)
-![Facial](Facial Service.jpg)
-![Spa](Spa Service.jpg)
 
-### 👩‍🎨 Stylist Selection
-![Stylist](Stylist 1.jpg)
-![Stylist](Stylist 2.jpg)
-
-### 📅 Booking Screen
-![Booking](Booking 1.jpg)
-![Booking](Booking 2.jpg)
-
-### 💳 Payment Screen
-![Payment](Payment 1.jpg)
-![Payment](Payment 2.jpg)
-
-### ✅ Confirmation Screen
-![Confirmation](Confirmation 1.jpg)
-![Confirmation](Confirmation 2.jpg)
 
 ### ⚠️ No Show / Refund
 ![No Show](No-show.jpg)
