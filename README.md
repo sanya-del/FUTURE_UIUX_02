@@ -84,23 +84,42 @@ A clean and intuitive mobile app UI was designed to:
 
 ---
 
-## 🔗 Figma Design Link
-(Add your Figma link here)
-
----
-
 ## 📸 Screenshots
 
-### Welcome Screen 
-![Mobile]C:\Users\sojan\Welcome Screen.jpg"
-### Services Screen
-![Services](services.png)
+### 🔐 Login Screen
+![Login](Login.jpg)
 
-### Booking Screen
-![Mobile](Booking 1.png)
+### 🏠 Welcome Screen
+![Welcome](Welcome Screen.jpg)
 
-### Payment Screen
-![Payment](payment.png)
+### 💇‍♀️ Services Screen
+![Haircut](Haircut Service.jpg)
+![Facial](Facial Service.jpg)
+![Spa](Spa Service.jpg)
 
-### Confirmation Screen
-![Confirmation](confirmation.png)
+### 👩‍🎨 Stylist Selection
+![Stylist](Stylist 1.jpg)
+![Stylist](Stylist 2.jpg)
+
+### 📅 Booking Screen
+![Booking](Booking 1.jpg)
+![Booking](Booking 2.jpg)
+
+### 💳 Payment Screen
+![Payment](Payment 1.jpg)
+![Payment](Payment 2.jpg)
+
+### ✅ Confirmation Screen
+![Confirmation](Confirmation 1.jpg)
+![Confirmation](Confirmation 2.jpg)
+
+### ⚠️ No Show / Refund
+![No Show](No-show.jpg)
+![Refund](Refund req.jpg)
+![Refund](Refund Approved.jpg)
+
+### ⭐ Review Screen
+![Review](Review.jpg)
+
+### 📍 Salon Info
+![Salon Info](Salon-info.jpg)
