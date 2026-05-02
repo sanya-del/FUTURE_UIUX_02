@@ -98,6 +98,12 @@ A clean and intuitive mobile app UI was designed to:
 ![Facial](Facial%20Service.jpg)
 ![Spa](Spa%20Service.jpg)
 
+### Booking
+![Booking](Booking%201.jpg)
+
+### Confirmation
+![Confirmation](Confirmaton%201.jpg)
+
 ### ⚠️Refund Request 
 ![No Show](No-show.jpg)
 
