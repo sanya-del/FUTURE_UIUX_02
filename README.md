@@ -94,7 +94,7 @@ A clean and intuitive mobile app UI was designed to:
 ![Login](Login.jpg)
 
 
-### ⚠️Refund Apply
+### ⚠️Refund Request 
 ![No Show](No-show.jpg)
 
 ### Refund Approved
