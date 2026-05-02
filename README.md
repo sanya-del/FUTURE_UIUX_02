@@ -98,7 +98,7 @@ A clean and intuitive mobile app UI was designed to:
 ![Services](services.png)
 
 ### Booking Screen
-![Desktop](Booking 1.png)
+![Mobile](Booking 1.png)
 
 ### Payment Screen
 ![Payment](payment.png)
