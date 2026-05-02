@@ -94,8 +94,10 @@ A clean and intuitive mobile app UI was designed to:
 ![Login](Login.jpg)
 
 
-### ⚠️ No Show / Refund
+### ⚠️Refund Apply
 ![No Show](No-show.jpg)
+
+### Refund Approved
 ![Refund](Refund.jpg)
 
 ### ⭐ Review Screen
