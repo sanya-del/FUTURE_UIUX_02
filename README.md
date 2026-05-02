@@ -90,4 +90,18 @@ A clean and intuitive mobile app UI was designed to:
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
+
+### Welcome Screen
+![Welcome](welcome.png)
+
+### Services Screen
+![Services](services.png)
+
+### Booking Screen
+![Booking](booking.png)
+
+### Payment Screen
+![Payment](payment.png)
+
+### Confirmation Screen
+![Confirmation](confirmation.png)
