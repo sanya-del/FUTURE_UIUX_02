@@ -92,8 +92,7 @@ A clean and intuitive mobile app UI was designed to:
 ## 📸 Screenshots
 
 ### Welcome Screen 
-![Welcome](welcome.png)
-
+![Welcome](Welcome Screen.jpg)
 ### Services Screen
 ![Services](services.png)
 
