@@ -90,7 +90,6 @@ A clean and intuitive mobile app UI was designed to:
 ![Welcome](Welcome%20Screen.jpg)
 
 
-
 ### 🔐 Login Screen
 ![Login](Login.jpg)
 
@@ -99,7 +98,7 @@ A clean and intuitive mobile app UI was designed to:
 ![No Show](No-show.jpg)
 
 ### Refund Approved
-![Refund](Refund.jpg)
+![Refund](Refund%20Approved.jpg)
 
 ### ⭐ Review Screen
 ![Review](Review.jpg)
