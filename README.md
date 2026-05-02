@@ -102,7 +102,7 @@ A clean and intuitive mobile app UI was designed to:
 ![Booking](Booking%201.jpg)
 
 ### Confirmation
-![Confirmation](Confirmaton%201.jpg)
+![Confirmation](Confirmation%201.jpg)
 
 ### ⚠️Refund Request 
 ![No Show](No-show.jpg)
