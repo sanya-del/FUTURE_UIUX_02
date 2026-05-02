@@ -87,7 +87,7 @@ A clean and intuitive mobile app UI was designed to:
 ## 📸 Screenshots
 
 ### 🏠 Welcome Screen
-![Welcome](WhatsApp Image 2026-05-02 at 9.39.03 PM)  
+![Welcome](WhatsApp Image 2026-05-02 at 9.39.03 PM.jpeg)  
 
 
 
