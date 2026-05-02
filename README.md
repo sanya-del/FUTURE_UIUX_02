@@ -92,14 +92,13 @@ A clean and intuitive mobile app UI was designed to:
 ## 📸 Screenshots
 
 ### Welcome Screen 
-Booking 1.jpg
 ![Welcome](welcome.png)
 
 ### Services Screen
 ![Services](services.png)
 
 ### Booking Screen
-![Booking](booking.png)
+![Booking](Booking 1.png)
 
 ### Payment Screen
 ![Payment](payment.png)
