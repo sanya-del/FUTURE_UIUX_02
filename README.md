@@ -94,9 +94,6 @@ A clean and intuitive mobile app UI was designed to:
 ![Login](Login.jpg)
 
 
-### 💇‍♀️ Services Screen
-
-
 ### ⚠️ No Show / Refund
 ![No Show](No-show.jpg)
 ![Refund](Refund.jpg)
