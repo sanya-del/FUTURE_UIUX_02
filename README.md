@@ -99,8 +99,7 @@ A clean and intuitive mobile app UI was designed to:
 
 ### ⚠️ No Show / Refund
 ![No Show](No-show.jpg)
-![Refund](Refund req.jpg)
-![Refund](Refund Approved.jpg)
+![Refund](Refund.jpg)
 
 ### ⭐ Review Screen
 ![Review](Review.jpg)
