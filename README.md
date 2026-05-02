@@ -123,3 +123,11 @@ A clean and intuitive mobile app UI was designed to:
 
 ### 📍 Salon Info
 ![Salon Info](Salon-info.jpg)
+
+
+## 📍 Conclusion
+This project helped in understanding mobile UX design and user flow.
+
+---
+
+✨ Designed by Sanya
