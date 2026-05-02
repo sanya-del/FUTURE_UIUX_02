@@ -93,6 +93,7 @@ A clean and intuitive mobile app UI was designed to:
 ### 🔐 Login Screen
 ![Login](Login.jpg)
 
+### Services
 
 ### ⚠️Refund Request 
 ![No Show](No-show.jpg)
@@ -102,9 +103,6 @@ A clean and intuitive mobile app UI was designed to:
 
 ### ⭐ Review Screen
 ![Review](Review.jpg)
-
-### 📍 Salon Info
-![Salon Info](Salon-info.jpg)
 
 
 ## 📍 Conclusion
