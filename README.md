@@ -98,7 +98,7 @@ A clean and intuitive mobile app UI was designed to:
 ![Facial](Facial%20Service.jpg)
 ![Spa](Spa%20Service.jpg)
 
-### Booking ⏳
+### Booking ⏳🪙
 ![Booking](Booking%201.jpg)
 
 ### Confirmation ✅
