@@ -93,21 +93,21 @@ A clean and intuitive mobile app UI was designed to:
 ### 🔐 Login Screen
 ![Login](Login.jpg)
 
-### Services
+### Services ✂️💆‍♀️
 ![Haircut](Haircut%20Service.jpg)
 ![Facial](Facial%20Service.jpg)
 ![Spa](Spa%20Service.jpg)
 
-### Booking
+### Booking ⏳
 ![Booking](Booking%201.jpg)
 
-### Confirmation
+### Confirmation ✅
 ![Confirmation](Confirmation%201.jpg)
 
 ### ⚠️Refund Request 
 ![No Show](No-show.jpg)
 
-### Refund Approved
+### Refund Approved ✔️
 ![Refund](Refund%20Approved.jpg)
 
 ### ⭐ Review Screen
